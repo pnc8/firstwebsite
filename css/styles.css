@@ -1,0 +1,131 @@
+/*.header{*/
+/*    color: red;*/
+/*}*/
+
+/*.background {*/
+/*    background-image: url('../images/nicouk.jpg');*/
+/*    height: 500px;*/
+/*    width: 500px;*/
+/*}*/
+
+body {
+    margin: 0;
+}
+
+.main-nav {
+    background-color: silver;
+    height: 90px;
+    position: fixed;
+    width: 100%
+}
+
+.container {
+    max-width: 80%;
+    margin: 0 auto;
+}
+.logo {
+    height: 60px;
+}
+
+.nav-list {
+    float: right;
+    list-style:  none;
+}
+
+.nav-item {
+    float: left;
+    margin-left: 15px;
+}
+
+.nav-link:hover {
+    color: silver;
+    
+}
+.hero-background {
+    background-image: url('../images/nicouk.jpg');
+    height: 500px;
+}
+.hero-text {
+    margin-top: 0;
+    text-align: center;
+    color: #fff;
+}
+section {
+    height: 450px;
+}
+
+.column {
+    float: left;
+    margin-left: 25px;
+    width: 30%;
+    text-align: center;
+    border: 2px dashed white;
+    margin-top: 25px;
+    background-color: grey;
+}
+
+.column-img {
+    height: 150px;
+    
+}
+footer {
+    border-top: 2px solid black;
+    background-color: silver;
+    text-align: center;
+}
+.fa.fa-facebook {
+    color: blue;
+    font-size: 36px;
+    
+    
+}
+.fa.fa-instagram {
+    color: purple;
+    font-size: 36px;
+}
+.social-links{
+    text-decoration: none;
+}
+.social-links > .fa {
+    color: blue
+    font-size: 36px;
+}
+.social-links > .fa:hover {
+    color: #fff;
+}
+
+.iframe {
+
+/******************* About Styles *************************/
+
+.iframe--container {
+    width: 50%;
+}
+.about--container {
+    height: 500px;
+}
+
+.about--column {
+    width: 40%;
+    float: left;
+    f
+    border-top: 2px solid #000;
+    border-bottom: 2px solid
+}
+
+.about--button {
+    background-color: green;
+    border-radius: 7px;
+    padding: 5px 10px;
+    border-style: none;
+}
+.link-text {
+    color: #fff;
+    text-decoration: none;
+    
+}
+
+.link--text:hover {
+    color: red;
+    
+}
